@@ -1,0 +1,9 @@
+name: Container Job Workflow
+on: push
+jobs:
+  container-test-job:
+    runs-on: ubuntu-latest
+    container: node:18
+    steps:
+      - name: Show container status
+        run: echo "Running in node:18 container!"
