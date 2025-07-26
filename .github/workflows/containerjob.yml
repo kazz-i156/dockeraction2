@@ -7,3 +7,5 @@ jobs:
     steps:
       - name: Show container status
         run: echo "Running in node:18 container!"
+      - name: Run a simple Node.js script
+        run: node -e "console.log('Hello from Node.js!')"
