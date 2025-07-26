@@ -1,2 +1,7 @@
 # dockeraction2
 コンテナアクションを実装するもう一つの方法
+
+ついでにgit branchのテスト
+brtest内でいろいろ書き加えてみる
+brtest内でいろいろ書き加えてみる2
+brtest内でいろいろ書き加えてみる3
