@@ -2,7 +2,7 @@ name: Container Job Workflow
 on: push
 jobs:
   container-test-job:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     container: node:18
     steps:
       - name: Show container status
