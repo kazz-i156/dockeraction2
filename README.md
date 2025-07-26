@@ -7,3 +7,4 @@ brtest内でいろいろ書き加えてみる2
 brtest内でいろいろ書き加えてみる3
 
 brtest2に分岐
+brtest2内で編集
